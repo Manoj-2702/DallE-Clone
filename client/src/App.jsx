@@ -12,7 +12,7 @@ const App = () => {
           <img src={logo} alt="DALL-E" className="w-28 object-contain" />
         </Link>
         <Link
-          to="/createpost"
+          to="/create-post"
           className="font-inter font-medium bg-[#6469ff] text-white px-4 py-2 rounded-md"
         >
           CreatePost
